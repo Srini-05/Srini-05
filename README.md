@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Srinivasan</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working in **Ford Motors**
+🔭 I’m currently working in **Ford Motors**
 
-- 💬 Ask me about **💼 Fresh to the Corporate World: Eager to dive into the corporate realm, I bring a young and dynamic approach to teamwork and problem-solving. I'm excited to contribute my skills and learn from experienced professionals.
+💬 About me
+- 💼 Fresh to the Corporate World: Eager to dive into the corporate realm, I bring a young and dynamic approach to teamwork and problem-solving. I'm excited to contribute my skills and learn from experienced professionals.
 - 📚 Lifelong Learner: I strongly believe that learning is a continuous journey. With an open mind and thirst for knowledge, I actively seek new opportunities for growth and development.
 - 🌟 Aerial Explorer: As a drone pilot, I have developed a keen eye for exploring the world from captivating aerial perspectives. This skill has allowed me to embrace creativity and innovation in my work.
 - 📸 Passionate Photographer: Photography is not just a hobby, but a true passion of mine. I take immense joy in capturing life's precious moments, allowing them to be cherished forever. If you're looking for an energetic professional with a passion for photography, aerial exploration, and a fresh perspective in the corporate world, let's connect and explore how we can collaborate for mutual success! 🌐**
